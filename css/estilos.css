@@ -25,6 +25,7 @@ body{
     text-align: left;
     border: 1px solid rgb(187, 183, 183);
     margin: 0 auto;
+    background-color: white;
 }
 
 #cabecera #tagline{
@@ -36,7 +37,19 @@ body{
 #container h1{
     font-size: 20px;
 }
-#post{
+/* #post{
     background-color: white;
-    padding: 1em;
+    padding: 1em; */
+footer{
+    background-color: #33a;
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 1px;
+    font-size: 10px;
+}
+footer p{
+    display: flex;
+    justify-content: center;
 }
