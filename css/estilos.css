@@ -31,3 +31,16 @@ body{
 #container h1{
     font-size: 20px;
 }
+footer{
+    background-color: #33a;
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 1px;
+    font-size: 10px;
+}
+footer p{
+    display: flex;
+    justify-content: center;
+}
