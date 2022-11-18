@@ -6,5 +6,6 @@ En este curso vemos de todo:
 - El flujo de trabajo de GitHub
 - El verdadero amor por las buenas practicas
 - Trucos muy locos
+- Creado por el increible platzi team 
 
 Y como un amable recordatorio **Este readme es un chiste** diseñado para el ejemplo.
