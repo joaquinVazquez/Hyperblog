@@ -8,5 +8,6 @@ En este curso vemos de todo:
 - Trucos muy locos
 - Creado por el increible platzi team 
 - Incluye ejemplos en windows linux y mac
+- Disponible para todas las edades
 
 Y como un amable recordatorio **Este readme es un chiste** diseñado para el ejemplo.
