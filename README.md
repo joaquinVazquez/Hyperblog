@@ -7,5 +7,6 @@ En este curso vemos de todo:
 - El verdadero amor por las buenas practicas
 - Trucos muy locos
 - Creado por el increible platzi team 
+- Incluye ejemplos en windows linux y mac
 
 Y como un amable recordatorio **Este readme es un chiste** diseñado para el ejemplo.
